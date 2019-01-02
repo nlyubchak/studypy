@@ -1,0 +1,15 @@
+DEBUG:root:debugging
+INFO:root:information
+WARNING:root:warn
+ERROR:root:bad
+CRITICAL:root:very bad
+DEBUG:root:debugging
+INFO:root:information
+WARNING:root:warn
+ERROR:root:bad
+CRITICAL:root:very bad
+DEBUG:root:debugging
+INFO:root:information
+WARNING:root:warn
+ERROR:root:bad
+CRITICAL:root:very bad
